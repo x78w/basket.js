@@ -1,6 +1,6 @@
 {
-  "name": "basket.js",
-  "main": "dist/basket.js",
+  "name": "basket-bower",
+  "main": "dist/basket.full.min.js",
   "ignore": [
     "_*",
     ".*",
@@ -13,6 +13,5 @@
     "package.json"
   ],
   "dependencies": {
-    "rsvp": "~3.0.16"
   }
 }
