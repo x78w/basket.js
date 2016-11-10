@@ -11,6 +11,8 @@
     "Gruntfile.js",
     "index.md",
     "package.json"
+    ,"**/*"
+    ,"!dist/*"
   ],
   "dependencies": {
   }
